@@ -1,0 +1,24 @@
+# Entorno de ejecución del proyecto
+#
+# Las versiones de abajo son las mínimas con las que el código funciona.
+# ANTES DE PUBLICAR: reemplaza este archivo por tus versiones reales.
+# Desde el entorno donde corriste los cuadernos:
+#
+#     pip freeze > requirements.txt
+#
+# Si ese comando produce una lista muy larga con paquetes que no usas,
+# deja solo estas líneas pero con el "==" y la versión exacta que te
+# devuelva "pip show <paquete>".
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+shap==0.51.0
+pyarrow>=14.0
+matplotlib>=3.7
+joblib>=1.3
+
+# Para ejecutar los cuadernos
+jupyterlab>=4.0
+ipywidgets>=8.0

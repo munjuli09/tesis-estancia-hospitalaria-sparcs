@@ -1,0 +1,35 @@
+# ---- Datos ----
+# El archivo de origen y las capas derivadas no se versionan: pesan
+# demasiado y el de origen es de descarga pública.
+data/**
+!data/**/.gitkeep
+
+# ---- Modelos entrenados ----
+# Se regeneran ejecutando los cuadernos.
+modelos/**
+!modelos/.gitkeep
+*.joblib
+*.pkl
+
+# ---- Formatos pesados ----
+*.parquet
+*.csv.gz
+*.zip
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+
+# ---- Sistema ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editores ----
+.vscode/
+.idea/
