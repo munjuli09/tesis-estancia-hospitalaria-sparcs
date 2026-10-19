@@ -1,0 +1,26 @@
+﻿,variable,n_categorias,pct_nulos
+9,CCSR Diagnosis Code,478,0.0
+10,CCSR Diagnosis Description,478,0.0
+14,APR DRG Description,334,0.0
+13,APR DRG Code,334,0.0
+12,CCSR Procedure Description,321,27.31
+11,CCSR Procedure Code,321,27.31
+1,Hospital County,57,0.24
+3,Zip Code - 3 digits,50,1.88
+15,APR MDC Code,26,0.0
+16,APR MDC Description,26,0.0
+22,Payment Typology 2,9,51.38
+21,Payment Typology 1,9,0.0
+23,Payment Typology 3,9,84.44
+0,Hospital Service Area,8,0.24
+7,Type of Admission,6,0.0
+2,Age Group,5,0.0
+17,APR Severity of Illness Code,5,0.0
+18,APR Severity of Illness Description,4,0.03
+19,APR Risk of Mortality,4,0.03
+5,Race,4,0.0
+6,Ethnicity,4,0.0
+20,APR Medical Surgical Description,3,0.0
+4,Gender,3,0.0
+24,Emergency Department Indicator,2,0.0
+8,Discharge Year,1,0.0

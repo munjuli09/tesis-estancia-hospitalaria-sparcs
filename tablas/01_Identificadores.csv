@@ -1,0 +1,4 @@
+﻿,variable,n_unicos,pct_nulos,ejemplo_valores
+0,Operating Certificate Number,168,0.31,"[7000006.0, 7002001.0, 7001009.0]"
+1,Permanent Facility Id,204,0.24,"[1169.0, 1168.0, 3058.0]"
+2,Facility Name,204,0.0,"['Montefiore Medical Center - Henry & Lucy Moses Div', 'Montefiore Medical Center-Wakefield Hospital', 'Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div']"

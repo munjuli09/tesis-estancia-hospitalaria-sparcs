@@ -1,0 +1,471 @@
+﻿CCSR Diagnosis,mean,count,mean_suavizada
+PNL002: Short gestation; low birth weight; and fetal growth retardation,26.330578512396695,242,24.75911265359256
+PNL005: Respiratory distress syndrome,25.82716049382716,243,24.29995252943441
+"INJ046: Spinal cord injury (SCI), subsequent encounter",26.719424460431654,139,24.081053554976414
+NEO060: Leukemia - acute myeloid leukemia (AML),22.45096463022508,1244,22.186619869652887
+NEO059: Leukemia - acute lymphoblastic leukemia (ALL),21.47732181425486,463,20.825854068822462
+INF001: Tuberculosis,20.281954887218046,266,19.265340962381995
+CIR022: Sequela of hemorrhagic cerebrovascular disease,18.295309168443495,938,18.033285506514876
+PNL006: Respiratory perinatal condition,17.57983193277311,357,16.951956273849472
+MBD001: Schizophrenia spectrum and other psychotic disorders,16.263014908140047,29447,16.255875641064282
+"INJ045: Traumatic brain injury (TBI); concussion, subsequent encounter",16.40507859733978,827,16.153350077026268
+NEO006: Head and neck cancers - hypopharyngeal,19.45762711864407,59,15.9859179144462
+CIR025: Sequela of cerebral infarction and other cerebrovascular disease,14.318402918524523,4934,14.28378835592274
+NVS003: Other specified CNS infection and poliomyelitis,18.17948717948718,39,13.964195173580505
+SKN003: Pressure ulcer of skin,14.014847161572053,1145,13.87286481994957
+NVS014: CNS abscess,14.313351498637601,367,13.870510375300388
+FAC008: Neoplasm-related encounters,14.714285714285714,168,13.760039974687498
+NEO008: Head and neck cancers - laryngeal,14.21987951807229,332,13.738316804662643
+CIR004: Endocarditis and endocardial disease,13.93146417445483,642,13.684120113657476
+NEO065: Multiple myeloma,13.560697115384615,1664,13.467866695511432
+NEO064: Leukemia - all other types,14.118421052631579,228,13.443094819521168
+NVS008: Paralysis (other than cerebral palsy),13.188535031847135,785,13.003586975454969
+MBD014: Neurodevelopmental disorders,13.102657004830919,828,12.929112635897699
+NVS002: Encephalitis,13.084569732937686,674,12.873036765477304
+NEO058: Non-Hodgkin lymphoma,12.929831932773109,2380,12.86995313135052
+"INJ043: Fracture of the neck of the femur (hip), subsequent encounter",12.871508379888269,1074,12.741213450860375
+"INJ009: Spinal cord injury (SCI), initial encounter",12.976138828633406,461,12.675441819628379
+MBD010: Feeding and eating disorders,12.764437689969604,658,12.557356217169984
+NVS013: Coma; stupor; and brain damage,12.793969849246231,199,12.15017130247146
+"INJ040: Fracture of torso, subsequent encounter",12.319488817891374,313,11.924587132856606
+PNL011: Hemorrhagic and hematologic disorders of newborn,14.063829787234043,47,11.580410675242533
+PNL004: Neonatal cerebral disorders,12.275,160,11.54937508467361
+MBD003: Bipolar and related disorders,11.548031738695016,12981,11.539103723962869
+"INJ063: Other specified injury, subsequent encounter",16.043478260869566,23,11.253198028866274
+NEO062: Leukemia - chronic myeloid leukemia (CML),11.582222222222223,225,11.105663327515305
+MBD006: Obsessive-compulsive and related disorders,11.708333333333334,168,11.073869761921541
+"INJ039: Fracture of the spine and back, subsequent encounter",11.448148148148148,270,11.054784535314655
+CIR021: Acute hemorrhagic cerebrovascular disease,11.064611120734453,5773,11.046243313523432
+"INJ050: Open wounds of trunk, subsequent encounter",23.875,8,10.924554115758921
+NEO003: Head and neck cancers - throat,11.83838383838384,99,10.814180800346636
+PNL014: Neonatal abstinence syndrome,13.0,44,10.732617425644527
+"INJ072: Complication of other surgical or medical care, injury, subsequent encounter",12.40677966101695,59,10.720095129636073
+"INJ071: Complication of internal orthopedic device or implant, subsequent encounter",11.486725663716815,113,10.623214400310149
+NEO023: Bone cancer,10.853801169590643,342,10.571512473042127
+"MUS015: Pathological fracture, subsequent encounter",11.304,125,10.53715527752586
+"MBD008: Disruptive, impulse-control and conduct disorders",10.575153374233128,652,10.431380231013765
+NEO068: Myelodysplastic syndrome (MDS),10.48314606741573,534,10.31207132715027
+NVS018: Myopathies,10.382640586797066,818,10.27194214229266
+DIG006: Gastrointestinal and biliary perforation,10.433823529411764,408,10.214690456171144
+NVS011: Neurocognitive disorders,10.221063982746225,5564,10.205029999147786
+MBD021: Stimulant-related disorders,10.232965359725924,2627,10.199050817998208
+"INJ056: Burns and corrosion, subsequent encounter",12.08695652173913,46,10.164962352140147
+NEO057: Hodgkin lymphoma,10.59217877094972,179,10.104962388146983
+MBD026: Mental and substance use disorders in remission,11.021739130434783,92,10.079352814654015
+NEO012: Gastrointestinal cancers - esophagus,10.188144329896907,776,10.076491853318153
+"INJ047: Internal organ injury, subsequent encounter",11.875,48,10.071875224136026
+"MUS017: Stress fracture, subsequent encounter",11.584905660377359,53,9.984760482756846
+NVS015: Polyneuropathies,9.992660550458716,1090,9.916114878595721
+MAL009: Chromosomal abnormalities,14.823529411764707,17,9.915878790304049
+NEO049: Nervous system cancers - all other types,10.814814814814815,81,9.810767477636135
+MBD002: Depressive disorders,9.754078143393688,17839,9.749587743728162
+"INJ059: Poisoning by drugs, subsequent encounter",29.75,4,9.745313135052074
+INF002: Septicemia,9.673365698426045,110613,9.672655423926326
+NEO021: Gastrointestinal cancers - all other types,9.800391389432486,511,9.647622439249059
+SYM007: Malaise and fatigue,9.666578808645228,3794,9.646011409344847
+SYM003: Shock,9.818897637795276,254,9.521487281902372
+NEO011: Cardiac cancers,10.311111111111112,90,9.480795593102272
+MBD004: Other specified and unspecified mood disorders,9.437588989084006,2107,9.4028620193894
+END012: Cystic fibrosis,9.868055555555555,144,9.365167775861279
+NEO014: Gastrointestinal cancers - small intestine,9.528528528528529,333,9.314128938360481
+"INJ073: Injury, sequela",10.03125,96,9.292133752079739
+"INJ042: Fracture of lower limb (except hip), subsequent encounter",9.363270777479892,746,9.26878265697291
+CIR028: Gangrene,9.463126843657816,339,9.255954081451948
+NEO061: Leukemia - chronic lymphocytic leukemia (CLL),9.363036303630363,303,9.138970635421826
+NEO002: Head and neck cancers - lip and oral cavity,9.198463508322662,781,9.112219120151373
+CIR001: Chronic rheumatic heart disease,9.164906580016247,1231,9.11022183472522
+MUS002: Osteomyelitis,9.100808166737558,2351,9.072495788798504
+NEO016: Gastrointestinal cancers - anus,9.30841121495327,214,9.003792800176281
+END008: Malnutrition,9.10943396226415,530,8.987068209529546
+"INJ036: Complication of transplanted organs or tissue, initial encounter",8.967806173249253,3013,8.946550450128997
+NEO053: Endocrine system cancers - adrenocortical,12.277777777777779,18,8.839145137927625
+CIR014: Pulmonary heart disease,8.909703504043126,742,8.82662403574967
+NEO013: Gastrointestinal cancers - stomach,8.802178899082568,1744,8.767509929275084
+FAC010: Other aftercare encounter,8.762360074626866,8576,8.755338240488745
+NEO056: Endocrine system cancers - all other types,9.361702127659575,94,8.727083467028507
+"INJ061: Sprains and strains, subsequent encounter",10.7,30,8.717750304824996
+"INJ019: Burn and corrosion, initial encounter",8.7008486562942,1414,8.659614724714956
+NEO005: Head and neck cancers - nasopharyngeal,9.457142857142857,70,8.632083502680553
+INF012: COVID-19,8.627353905965252,65848,8.626478525463673
+"INJ068: Maltreatment/abuse, subsequent encounter",37.0,2,8.585796147329535
+"INJ014: Amputation of a limb, initial encounter",8.81304347826087,230,8.567550060964999
+MAL001: Cardiac and circulatory congenital anomalies,8.54653828519028,2181,8.521075654357679
+RSP012: Respiratory failure; insufficiency; arrest,8.511065713312904,14685,8.507302789203758
+"INJ038: Fracture of head and neck, subsequent encounter",10.333333333333334,30,8.497750304824995
+NEO018: Gastrointestinal cancers - bile duct,8.58813559322034,590,8.494897565969264
+CIR027: Arterial dissections,8.517241379310345,1073,8.466502758683669
+INF004: Fungal infections,8.877862595419847,131,8.462831226763242
+NEO048: Nervous system cancers - brain,8.428571428571429,1967,8.401553857695648
+END007: Nutritional deficiencies,8.539156626506024,332,8.380362259208097
+PNL012: Neonatal digestive and feeding disorders,8.560137457044673,291,8.379059534537781
+MBD009: Personality disorders,8.426441351888668,1006,8.374159371580165
+NEO020: Gastrointestinal cancers - peritoneum,8.787610619469026,113,8.329981317603382
+NEO051: Endocrine system cancers - pancreas,8.349258649093905,2428,8.327976926160641
+"MUS014: Pathological fracture, initial encounter",8.338733431516937,1358,8.301079474050253
+"NEO071: Malignant neoplasm, unspecified",8.509345794392523,214,8.27302356940705
+DIG018: Hepatic failure,8.185243825205827,3158,8.169882792712793
+"INJ062: Injury to nerves, muscles and tendons, subsequent encounter",11.2,15,8.08250043546428
+NEO040: Male reproductive system cancers - testis,8.67605633802817,71,8.03173093671703
+MBD022: Hallucinogen-related disorders,8.188034188034187,234,7.9956201387450765
+NEO019: Gastrointestinal cancers - gallbladder,8.206030150753769,199,7.981221530781962
+NEO007: Head and neck cancers - pharyngeal,9.387096774193548,31,7.958578730220584
+DIG023: Noninfectious hepatitis,8.044444444444444,405,7.936205918214705
+BLD008: Immunity disorders,7.895833333333333,432,7.800636095666482
+SYM008: Symptoms of mental and substance use conditions,8.041666666666666,168,7.7972740172406905
+NEO070: Secondary malignancies,7.79571905265728,12287,7.792385432293918
+NEO010: Head and neck cancers - all other types,8.017142857142858,175,7.784038539698717
+MUS001: Infective arthritis,7.814917127071824,1086,7.777475149404385
+"INJ041: Fracture of the upper limb, subsequent encounter",7.94,250,7.777361167560184
+INF003: Bacterial infections,8.0,167,7.7587567659959875
+NVS001: Meningitis,7.775510204081633,588,7.708696571120477
+RSP010: Aspiration pneumonitis,7.701445515196442,5396,7.694218522016479
+"INJ037: Complication of other surgical or medical care, injury, initial encounter",7.683885789300952,15235,7.681343003293429
+GEN003: Chronic kidney disease,7.675349922239502,10288,7.671603367796008
+CIR002: Acute rheumatic heart disease,10.0,16,7.6357643122569385
+"INJ008: Traumatic brain injury (TBI); concussion, initial encounter",7.632655354534218,8899,7.628421069093088
+INF011: Sequela of specified infectious disease conditions,11.0,11,7.609274685201606
+MBD011: Somatic disorders,7.8561643835616435,146,7.601732019525601
+"INJ044: Dislocations, subsequent encounter",10.666666666666666,12,7.590234851289056
+MUS024: Systemic lupus erythematosus and connective tissue disorders,7.597701149425287,1914,7.578535426701784
+NEO015: Gastrointestinal cancers - colorectal,7.575289575289576,6216,7.569417497633299
+MUS004: Juvenile arthritis,8.6875,32,7.555529139254803
+"INJ064: Other unspecified injuries, subsequent encounter",14.8,5,7.555500609649991
+NEO017: Gastrointestinal cancers - liver,7.5631840796019905,1005,7.527695136820732
+MBD023: Inhalant-related disorders,11.875,8,7.495982687187492
+MBD034: Mental and substance use disorders; sequela,25.0,2,7.494887056420445
+NEO063: Leukemia - hairy cell,9.928571428571429,14,7.467279860036759
+NEO041: Male reproductive system cancers - penis,8.070175438596491,57,7.466071626509737
+DIG019: Other specified and unspecified liver disease,7.4158460161145925,6702,7.410872882362578
+SYM016: Other general signs and symptoms,7.404026845637584,3725,7.395163555471629
+"INJ016: Injury to blood vessels, initial encounter",7.447643979057592,382,7.362904266769278
+NEO067: Mesothelioma,7.539877300613497,163,7.343647624269124
+NEO024: Sarcoma,7.380081300813008,492,7.316186553205566
+NEO055: Endocrine system cancers - pituitary gland,17.666666666666668,3,7.299457184402165
+NVS006: Other nervous system disorders (often hereditary or degenerative),7.316789862724393,947,7.284268371500776
+NEO025: Skin cancers - melanoma,7.615384615384615,91,7.278265903074322
+"INJ033: Complication of cardiovascular device, implant or graft, initial encounter",7.274544256534154,9106,7.271190830072458
+RSP016: Other specified and unspecified lower respiratory disease,7.264055835595192,2579,7.252361491050886
+NEO037: Female reproductive system cancers - vagina,7.914285714285715,35,7.125227549840905
+CIR030: Aortic and peripheral arterial embolism or thrombosis,7.156077348066298,724,7.118128380700605
+NVS007: Cerebral palsy,7.53030303030303,66,7.114971107456392
+"INJ069: Complication of cardiovascular device, implant or graft, subsequent encounter",8.26086956521739,23,7.090407331191855
+"INJ034: Complication of genitourinary device, implant or graft, initial encounter",7.051318146915792,7814,7.047981556706823
+NEO066: Malignant neuroendocrine tumors,7.0406593406593405,910,7.012782274452957
+INJ032: Maltreatment/abuse,7.089285714285714,280,6.999625050804166
+PNL009: Perinatal infections,7.0393374741200825,483,6.987847942825546
+CIR018: Cardiac arrest and ventricular fibrillation,6.9804305283757335,1022,6.956705868753599
+NEO046: Urinary system cancers - urethra,8.0,23,6.950872447470926
+NVS004: Parkinson`s disease,6.944700460829493,1519,6.929101699312053
+NEO043: Urinary system cancers - bladder,6.864083640836409,1626,6.850478441823359
+NEO022: Respiratory cancers,6.849539406345957,6839,6.846316885149621
+NVS020: Other nervous system disorders (neither hereditary nor degenerative),6.829548061481991,8718,6.827064261300212
+"MUS016: Stress fracture, initial encounter",6.8061420345489445,1042,6.7861464361970345
+CIR026: Peripheral and visceral vascular disease,6.7913184146670265,3709,6.785703275741821
+MBD019: Cannabis-related disorders,6.777604976671851,643,6.7464366745720215
+"INJ018: Crushing injury, initial encounter",6.879699248120301,133,6.731290949289214
+NVS022: Sequela of specified nervous system conditions,10.0,6,6.726442893894222
+"RSP011: Pleurisy, pleural effusion and pulmonary collapse",6.726623840114204,2802,6.719662478823973
+MUS013: Osteoporosis,6.73107207752877,1651,6.7192624268349785
+MAL002: Digestive congenital anomalies,6.712609970674487,682,6.6850249504861115
+"INJ049: Open wounds to limbs, subsequent encounter",7.310344827586207,29,6.671173780433669
+BLD002: Hemolytic anemia,6.7085953878406706,477,6.6697937932419515
+"INJ054: Superficial injury; contusion, subsequent encounter",7.5,22,6.663988458124995
+CIR020: Cerebral infarction,6.662449807866673,23161,6.661657716027835
+CIR019: Heart failure,6.629722656085103,47378,6.629349076231934
+"INJ010: Internal organ injury, initial encounter",6.607932011331445,3530,6.603066905701761
+"MUS020: Pathological, stress and atypical fractures, sequela",8.444444444444445,9,6.582328111767234
+DIG024: Postprocedural or postoperative digestive system complication,6.568113904025312,5689,6.565228151207085
+NEO027: Skin cancers - squamous cell carcinoma,6.651898734177215,158,6.549929860905897
+FAC006: Encounter for antineoplastic therapies,6.532040069963428,6289,6.529543115428951
+"INJ028: Adverse effects of drugs and medicaments, initial encounter",8.222222222222221,9,6.513362594525855
+INF007: Hepatitis,6.523385300668151,1347,6.511987940922641
+CIR035: Varicose veins of lower extremity,6.543352601156069,346,6.499692664593579
+MBD018: Opioid-related disorders,6.475131731139956,7781,6.47325823807733
+"INJ002: Fracture of the spine and back, initial encounter",6.47620164126612,4265,6.472785884537048
+INJ026: Other specified injury,6.483524904214559,1305,6.472367936031132
+NEO031: Female reproductive system cancers - uterus,6.512367491166078,283,6.461674967792903
+"INJ006: Fracture of the neck of the femur (hip), initial encounter",6.447347893915756,12820,6.446252921747761
+XXX000: Unacceptable PDX,6.696428571428571,56,6.4458883584374975
+MBD027: Suicide attempt/intentional self-harm; subsequent encounter,9.75,4,6.411979801718741
+GEN002: Acute and unspecified renal failure,6.403694066023776,19599,6.403021943791287
+MAL007: Respiratory congenital malformations,6.412935323383085,201,6.3524321956617635
+MBD025: Other specified substance-related disorders,6.35133418043202,1574,6.343718641933029
+SYM005: Dysphagia,6.3591240875912405,685,6.341684418781915
+NEO069: Cancer of other sites,6.449438202247191,89,6.320068947167429
+CIR005: Myocarditis and cardiomyopathy,6.323465703971119,1385,6.31522243077669
+NEO072: Neoplasms of unspecified nature or uncertain behavior,6.301465457083043,1433,6.293797326387645
+NEO042: Male reproductive system cancers - all other types,8.4,5,6.275500609649992
+GEN001: Nephritis; nephrosis; renal sclerosis,6.282560706401766,453,6.259804471968815
+"INJ051: Amputation of a limb, subsequent encounter",8.75,4,6.245313135052075
+DIG008: Other specified and unspecified disorders of stomach and duodenum,6.240526525727962,2507,6.236599729023051
+"INJ057: Effect of foreign body entering opening, subsequent encounter",11.0,2,6.222159783693172
+SKN004: Non-pressure ulcer of skin,6.162295081967213,610,6.149027801970238
+RSP013: Lung disease due to external agents,6.140243902439025,328,6.117492859888649
+"INJ055: Crushing injury, subsequent encounter",7.6,5,6.115500609649992
+SYM010: Nervous system signs and symptoms,6.068849922640537,3878,6.06718509883049
+END013: Pituitary disorders,6.0657523194836624,2479,6.063180278207783
+NEO032: Female reproductive system cancers - cervix,6.067698259187621,517,6.0556564529632215
+MUS025: Other specified connective tissue disease,6.046310832025117,1274,6.041644138517194
+"INJ053: Injury to blood vessels, subsequent encounter",8.0,3,6.038587619184773
+RSP014: Pneumothorax,6.0344827586206895,1421,6.030456290937717
+"INJ035: Complication of internal orthopedic device or implant, initial encounter",6.011471966391986,6189,6.010611614630577
+NEO009: Head and neck cancers - tonsils,6.05050505050505,99,5.999054749926469
+"INJ060: Toxic effects, subsequent encounter",6.714285714285714,7,5.995833897824066
+END003: Diabetes mellitus with complication,5.993946319918461,32377,5.993792249752794
+PNL013: Other specified and unspecified perinatal conditions,5.948813982521847,801,5.943833757906517
+NEO033: Female reproductive system cancers - ovary,5.940065681444992,1218,5.936904293409734
+NEO036: Female reproductive system cancers - vulva,5.957055214723926,163,5.9338115586953535
+DIG005: Gastroduodenal ulcer,5.924872355944566,1371,5.922277149706146
+EYE001: Cornea and external disease,5.935294117647059,170,5.915197448638157
+BLD007: Diseases of white blood cells,5.914572864321608,1592,5.91246123774271
+NVS021: Postprocedural or postoperative nervous system complication,5.905084745762712,295,5.8948810007658725
+MBD007: Trauma- and stressor-related disorders,5.8903053661429,3373,5.889445185747495
+MUS032: Neurogenic/neuropathic arthropathy,6.066666666666666,15,5.88250043546428
+NVS005: Multiple sclerosis,5.861924686192468,1195,5.859989724478395
+"INJ075: Poisoning/toxic effect/adverse effects/underdosing, sequela",7.0,2,5.858523420056809
+NEO074: Conditions due to neoplasm or the treatment of neoplasm,5.850757575757576,2640,5.84995771249671
+PNL003: Neonatal acidemia and hypoxia,5.9375,16,5.830208756701383
+"INJ005: Fracture of the lower limb (except hip), initial encounter",5.82982923699536,10131,5.829660872351615
+BLD005: Sickle cell trait/anemia,5.804486047333098,5662,5.804274465899551
+CIR036: Postthrombotic syndrome and venous insufficiency/hypertension,5.763888888888889,864,5.763447415431279
+CIR038: Postprocedural or postoperative circulatory system complication,5.75527950310559,805,5.755015169989394
+"INJ076: Complication, sequela",5.761904761904762,21,5.753354030274385
+DIG025: Other specified and unspecified gastrointestinal disorders,5.734919847959015,6051,5.734950999051433
+DIG016: Peritonitis and intra-abdominal abscess,5.720379146919432,2321,5.720584158582336
+INF010: Sexually transmitted infections (excluding HIV and hepatitis),5.703896103896104,385,5.70589509936111
+MUS022: Scoliosis and other postural dorsopathic deformities,5.679062247372676,1237,5.680101444106007
+MBD020: Sedative-related disorders,5.679180887372014,1465,5.68005893282239
+"MUS019: Atypical fracture, subsequent encounter",5.0,2,5.676705238238626
+EYE004: Uveitis and ocular inflammation,5.655913978494624,93,5.671570931338493
+EYE002: Cataract and other lens disorders,5.6,25,5.664167005361106
+MAL010: Other specified and unspecified congenital anomalies,5.651933701657459,181,5.661131916623134
+PNL008: Birth trauma,5.606060606060606,33,5.658255004551883
+"MUS018: Atypical fracture, initial encounter",5.533333333333333,15,5.653929006892851
+RSP017: Postprocedural or postoperative respiratory system complication,5.650031191515907,1603,5.651193786347042
+MBD017: Alcohol-related disorders,5.632913375955873,31908,5.63298319704464
+END016: Other specified and unspecified nutritional and metabolic disorders,5.623766135155657,2634,5.624675024582235
+"INJ058: Effect of other external causes, subsequent encounter",5.0,4,5.620313135052075
+END014: Postprocedural or postoperative endocrine or metabolic complication,5.593220338983051,118,5.6151269220380415
+BLD006: Coagulation and hemorrhagic disorders,5.6,2875,5.600997414591104
+NEO026: Skin cancers - basal cell carcinoma,5.511627906976744,43,5.585516114940472
+MUS003: Rheumatoid arthritis and related disease,5.577726218097448,431,5.585116441776607
+"INJ048: Open wounds of head and neck, subsequent encounter",4.75,4,5.578646468385408
+NEO001: Head and neck cancers - eye,5.509803921568627,51,5.575880496355631
+FAC020: Lifestyle/life management factors,2.0,1,5.566072154345227
+FAC007: Encounter for mental health conditions,2.0,1,5.566072154345227
+DIG011: Regional enteritis and ulcerative colitis,5.558944408392819,4623,5.5597431650315
+SKN002: Other specified inflammatory condition of skin,5.555555555555555,1242,5.55854795185519
+DIG012: Intestinal obstruction and ileus,5.5526055534423735,13145,5.5528968868394415
+PRG001: Antenatal screening,1.0,1,5.51845310672618
+RSP002: Pneumonia (except that caused by tuberculosis),5.510411515850778,18201,5.510668323101984
+NEO034: Female reproductive system cancers - fallopian tube,5.453608247422681,97,5.503312096079058
+NEO054: Endocrine system cancers - parathyroid,3.0,2,5.494887056420445
+CIR032: Other specified and unspecified circulatory disease,5.469907407407407,432,5.482052024870022
+FAC012: Other specified encounters and counseling,3.6666666666666665,3,5.473370227880425
+NEO038: Female reproductive system cancers - all other types,5.406976744186046,86,5.470636936238205
+"INJ070: Complication of genitourinary device, implant or graft, subsequent encounter",4.9,10,5.462917174708326
+INJ030: Drug induced or toxic related condition,5.437869822485207,2366,5.440439025666911
+"INJ067: Allergic reactions, subsequent encounter",4.2,5,5.435500609649991
+CIR006: Pericarditis and pericardial disease,5.4270246860112605,2309,5.42974989920191
+RSP007: Other specified and unspecified upper respiratory disease,5.416965352449224,837,5.4246062021484835
+"INJ015: Amputation of other body parts, initial encounter",4.142857142857143,7,5.3291672311574
+CIR029: Aortic; peripheral; and visceral artery aneurysms,5.317334254143646,2896,5.320263208244598
+EYE009: Refractive error,2.3333333333333335,3,5.299457184402164
+MUS026: Muscle disorders,5.265391969407266,2615,5.269027520015654
+MBD005: Anxiety and fear-related disorders,5.254310344827586,1392,5.26125178133233
+MUS027: Musculoskeletal abscess,5.0,43,5.2363097657341235
+BLD010: Other specified and unspecified hematologic conditions,5.185303514376997,313,5.218881427150901
+"INJ003: Fracture of torso, initial encounter",5.198832611560912,5311,5.200879293798772
+DIG021: Gastrointestinal hemorrhage,5.198459308977195,13111,5.199290801556717
+"INJ021: Effect of other external causes, initial encounter",5.163588390501319,379,5.192700539451754
+GEN007: Other specified and unspecified diseases of bladder and urethra,5.173402868318123,767,5.187912979976175
+EYE003: Glaucoma,5.063157894736842,95,5.181630567315215
+CIR039: Other specified diseases of veins and lymphatics,5.156324582338902,838,5.170032069045746
+NEO052: Endocrine system cancers - thymus,5.038759689922481,129,5.133473256652683
+MUS034: Crystal arthropathies (excluding gout),5.04524886877828,221,5.103267698096472
+BLD009: Postprocedural or postoperative complications of the spleen,4.421052631578948,19,5.099679877980764
+FAC022: Acquired absence of limb or organ,3.6666666666666665,9,5.099569491077579
+NEO047: Urinary system cancers - all other types,4.887096774193548,62,5.096189210259144
+CIR013: Acute pulmonary embolism,5.081136597055803,8763,5.082646876379512
+BLD003: Aplastic anemia,5.076759966072943,2358,5.082374901278911
+PRG025: Anesthesia complications during pregnancy,1.75,4,5.078646468385407
+GEN010: Proteinuria,2.8333333333333335,6,5.072596740048069
+PNL010: Newborn affected by maternal conditions or complications of labor/delivery,3.8181818181818183,11,5.060887588427413
+GEN013: Inflammatory conditions of male genital organs,5.047397769516729,1076,5.0601163460230385
+NEO028: Skin cancers - all other types,4.861111111111111,72,5.053125165665759
+EAR005: Postprocedural or postoperative ear and/or mastoid process complication,3.0,7,5.032870934861103
+CIR033: Acute phlebitis; thrombophlebitis and thromboembolism,5.026740544447121,4151,5.030181614778531
+MUS005: Other specified chronic arthropathy,1.25,4,4.995313135052074
+END015: Other specified and unspecified endocrine disorders,4.9364341085271315,1290,4.948769095604008
+CIR009: Acute myocardial infarction,4.93632283048759,22724,4.937033394092563
+CIR003: Nonrheumatic and unspecified valve disorders,4.925364362952515,8508,4.927285121393205
+END010: Disorders of lipid metabolism,4.802919708029197,137,4.9228504155493615
+"INJ023: Toxic effects, initial encounter",4.893089960886571,767,4.914723653419631
+GEN024: Female infertility,2.0,6,4.8802890477403755
+MUS036: Autoinflammatory syndromes,3.4166666666666665,12,4.871484851289056
+DIG013: Diverticulosis and diverticulitis,4.843346518396896,13399,4.844689434029455
+CIR010: Complications of acute myocardial infarction,4.404761904761905,42,4.836895407116932
+EYE012: Other specified eye disorders,4.675531914893617,188,4.778305361736778
+MUS033: Gout,4.754440961337513,957,4.774705747432191
+MUS008: Immune-mediated/reactive arthropathies,4.071428571428571,28,4.768489900859371
+RSP008: Chronic obstructive pulmonary disease and bronchiectasis,4.761138221687053,15779,4.762382904945962
+GEN004: Urinary tract infections,4.749153014340743,21547,4.750075926890214
+MBD012: Suicidal ideation/attempt/intentional self-harm,4.729961832061068,4192,4.7347786123554725
+DIG015: Anal and rectal conditions,4.702427564604542,1277,4.718494614680995
+BLD004: Acute posthemorrhagic anemia,4.704419889502763,2896,4.7115526458303325
+MUS037: Postprocedural or postoperative musculoskeletal system complication,4.664585191793042,1121,4.683512283296451
+DIG020: Pancreatic disorders (excluding diabetes),4.669041560644614,11790,4.670862617717295
+CIR034: Chronic phlebitis; thrombophlebitis and thromboembolism,4.47457627118644,118,4.658605182907607
+CIR015: Other and ill-defined heart disease,4.602076124567474,578,4.640280125821488
+SYM017: Abnormal findings without diagnosis,4.630295763389289,2502,4.6391306563208765
+"INJ022: Poisoning by drugs, initial encounter",4.6354334948842215,7428,4.638411320521113
+DIG001: Intestinal infection,4.630789589766211,6801,4.6340547596014146
+"INF009: Parasitic, other specified and unspecified infections",4.567073170731708,984,4.590525413586903
+DIG010: Abdominal hernia,4.562232316677482,7705,4.565292882231877
+NEO035: Female reproductive system cancers - endometrium,4.539145907473309,1124,4.560216359476617
+NEO044: Urinary system cancers - ureter and renal pelvis,4.484567901234568,324,4.557812544305959
+SKN001: Skin and subcutaneous tissue infections,4.529982895663547,19878,4.53120351368184
+"INJ013: Open wounds of trunk, initial encounter",4.474178403755869,639,4.512727640730273
+MUS012: Biomechanical lesions,3.4166666666666665,24,4.474716255482949
+"FAC016: Exposure, encounters, screening or contact with infectious disease",3.0,18,4.444408295822363
+DIG004: Esophageal disorders,4.408942795076032,5524,4.413760374322016
+GEN026: Postprocedural or postoperative genitourinary system complication,4.391482391482391,1221,4.413285669009872
+MUS030: Aseptic necrosis and osteonecrosis,4.339805825242719,515,4.392313112600466
+EYE008: Oculofacial plastics and orbital conditions,4.276515151515151,264,4.379885617046654
+END011: Fluid and electrolyte disorders,4.368915304606241,16825,4.370548383214085
+NEO004: Head and neck cancers - salivary gland,4.178343949044586,157,4.355296696278247
+"INJ017: Superficial injury; contusion, initial encounter",4.337452982267598,1861,4.352412288804492
+MAL004: Nervous system congenital anomalies,4.229759299781182,457,4.293265231113731
+CIR031: Hypotension,4.2717092753010775,4733,4.277906062537608
+EAR006: Other specified and unspecified disorders of the ear,4.192708333333333,384,4.2695235525773505
+EAR002: Diseases of middle ear and mastoid (except otitis media),4.104712041884817,191,4.260130403986966
+NVS009: Epilepsy; convulsions,4.233137243703238,17509,4.234861516072865
+"INJ001: Fracture of head and neck, initial encounter",4.215660542432196,2286,4.228919130633673
+DIG022: Noninfectious gastroenteritis,4.218433179723502,5425,4.2240381111554175
+DIG007: Gastritis and duodenitis,4.141513658755038,4466,4.148659722523685
+EYE007: Strabismus,1.6923076923076923,13,4.148106522462115
+SKN006: Postprocedural or postoperative skin complication,4.102836879432624,846,4.140747708130774
+GEN009: Hematuria,4.09462915601023,782,4.135769969128741
+MUS011: Spondylopathies/spondyloarthropathy (including infective),4.133811560215202,21747,4.135291382149182
+CIR016: Conduction disorders,4.125396825396826,3780,4.13391776716875
+EAR004: Hearing loss,3.09375,32,4.113221446947112
+END001: Thyroid disorders,4.091032608695652,1472,4.113195385550436
+MAL008: Musculoskeletal congenital conditions,4.0606060606060606,858,4.098960723509396
+"INJ004: Fracture of the upper limb, initial encounter",4.084524439738839,5667,4.090361792727493
+NEO030: Breast cancer - all other types,4.070259481037924,2505,4.083519808016336
+RSP001: Sinusitis,3.9393939393939394,231,4.083217192196214
+MUS007: Other specified joint disorders,4.029023746701847,758,4.073120199538881
+CIR024: Other and ill-defined cerebrovascular disease,4.048876404494382,1780,4.067715286245139
+DIG003: Diseases of mouth; excluding dental,4.023430962343096,1195,4.0517592718034985
+CIR011: Coronary atherosclerosis and other heart disease,4.042079079649686,19297,4.043841565214125
+RSP003: Influenza,3.9415041782729805,359,4.0366425204254615
+"INJ024: Sprains and strains, initial encounter",4.0,1008,4.033937271635457
+DIG014: Hemorrhoids,4.0,1396,4.024638075735346
+SYM011: Genitourinary signs and symptoms,3.880794701986755,302,3.996545078388974
+CIR008: Hypertension with complications and secondary hypertension,3.988699234844026,8495,3.9928229612731947
+EYE006: Neuro-ophthalmology,3.8938775510204082,490,3.966446108316176
+MUS038: Low back pain,3.876056338028169,710,3.927243171563356
+EYE011: Postprocedural or postoperative eye complication,2.0,19,3.9201926984935844
+SKN007: Other specified and unspecified skin disorders,3.8153034300791555,379,3.911998785065789
+DIG017: Biliary tract disease,3.9061019299664856,17306,3.908223912919384
+PRG012: Multiple gestation,3.8509249183895538,919,3.8912540098415866
+FAC013: Contraceptive and procreative management,1.5625,16,3.8857643122569385
+PRG018: Maternal care related to disorders of the placenta and placental implantation,3.856888888888889,2250,3.8735187291811672
+MUS023: Acquired deformities (excluding foot),3.791578947368421,475,3.8704798287702014
+EYE005: Retinal and vitreous conditions,3.7564102564102564,390,3.853384183515243
+INF008: Viral infection,3.802315227070347,2246,3.8194560967525373
+BLD001: Nutritional anemia,3.8072810011376563,4395,3.8160560623422994
+GEN023: Menopausal disorders,3.5798816568047336,169,3.8089286520701044
+NVS019: Nervous system pain and pain syndromes,3.7705047318611986,1268,3.8011549031376166
+MBD013: Miscellaneous mental and behavioral disorders/conditions,3.7005649717514126,531,3.7747504813815786
+GEN018: Inflammatory diseases of female pelvic organs,3.6940035273368608,1134,3.7295385747324525
+"INJ020: Effect of foreign body entering opening, initial encounter",3.6787603930461072,1323,3.709521604796165
+CIR017: Cardiac dysrhythmias,3.6987252488887257,27221,3.7002271397981445
+"INJ025: Injury to nerves, muscles and tendons, initial encounter",3.44811320754717,212,3.6460668760398693
+INJ027: Other unspecified injury,3.510324483775811,339,3.634784165017409
+NEO073: Benign neoplasms,3.612070601632188,10538,3.6161098233795466
+FAC025: Other specified status,3.3856502242152464,223,3.579784013338476
+"MUS010: Musculoskeletal pain, not low back pain",3.55114006514658,1535,3.5793488843995176
+"INJ011: Open wounds of head and neck, initial encounter",3.5430194805194803,1232,3.5781849163268773
+NEO045: Urinary system cancers - kidney,3.533848250795093,2201,3.5537539465291537
+PNL001: Liveborn,3.542465771027287,155643,3.542748678332303
+PRG011: Early or threatened labor,3.494118829797929,9947,3.4986342445310776
+MUS031: Traumatic arthropathy,2.8285714285714287,70,3.4765279471249975
+FAC014: Medical examination/evaluation,1.4090909090909092,22,3.4735122676488044
+PRG020: Hypertension and hypertensive-related conditions complicating pregnancy; childbirth; and the puerperium,3.4158822522676706,17529,3.4185359573332526
+"INJ007: Dislocations, initial encounter",3.357142857142857,910,3.4084811991841395
+MAL003: Genitourinary congenital anomalies,3.2479338842975207,363,3.378296384441905
+PRG015: Obstetric history affecting care in pregnancy,2.347826086956522,46,3.3770835642613606
+"INJ012: Open wounds to limbs, initial encounter",3.323757763975155,1288,3.36077027159117
+NVS017: Nerve and nerve root disorders,3.253853127833182,1103,3.2982079387722614
+SKN005: Contact dermatitis,2.9424460431654675,139,3.294890032963835
+INJ031: Allergic reactions,3.23743842364532,1015,3.2858816572379226
+PRG021: Maternal intrauterine infection,3.1673306772908365,502,3.2660680368606316
+MUS009: Tendon and synovial disorders,3.203791469194313,844,3.2626012907884836
+GEN012: Hyperplasia of prostate,3.2248372558838256,1997,3.249820285196455
+"PRG009: Early, first or unspecified trimester hemorrhage",2.0,41,3.2276641842827836
+SYM002: Fever,3.198036951501155,1732,3.227104746142266
+PRG027: Complications specified during the puerperium,3.184496826835902,2206,3.207496637574686
+GEN017: Nonmalignant breast conditions,3.137150466045273,751,3.2047827694439035
+END002: Diabetes mellitus without complication,2.35,60,3.1985939405156225
+SYM013: Respiratory signs and symptoms,3.175,2160,3.198572254697821
+FAC004: Encounter for prophylactic or other procedures,3.124661246612466,738,3.1937830016375326
+NVS016: Sleep wake disorders,3.050113895216401,439,3.1675109264515244
+EAR001: Otitis media,2.795918367346939,147,3.1490270373727536
+NEO050: Endocrine system cancers - thyroid,3.0588235294117645,697,3.133734330880404
+"FAC009: Implant, device or graft related encounter",2.7482014388489207,139,3.1250787122091177
+GEN025: Other specified female genital disorders,3.0838068181818183,1408,3.121069688544293
+SYM001: Syncope,3.109230769230769,7800,3.1159702704912084
+GEN008: Urinary incontinence,2.1607142857142856,56,3.1037830952796024
+RSP005: Acute bronchitis,3.0835030549898166,4910,3.0942976704343303
+CIR007: Essential hypertension,3.0034129692832763,586,3.0938737875268147
+GEN011: Vesicoureteral reflux,2.521276595744681,94,3.0867325898355245
+SYM006: Abdominal pain and other digestive/abdomen signs and symptoms,3.0536801328168233,3614,3.06848858427112
+MUS021: Acquired foot deformities,2.725,160,3.060486195784721
+SYM012: Circulatory signs and symptoms,3.03,2600,3.050720425664599
+MUS028: Other specified bone disease and musculoskeletal deformities,2.982367758186398,794,3.050230362704238
+PRG028: Other specified complications in pregnancy,3.0229930363946917,7611,3.030125477033318
+INF005: Foodborne intoxications,2.6686046511627906,172,2.9889974752148425
+PRG014: Polyhydramnios and other problems of amniotic cavity,2.9746273953158267,5636,2.984421413585794
+"MAL005: Congenital malformations of eye, ear, face, neck",2.1470588235294117,68,2.964630855014202
+SYM004: Nausea and vomiting,2.936882782310004,2329,2.9607865113840997
+RSP015: Mediastinal disorders,2.4473684210526314,114,2.939459068964551
+PRG013: Maternal care related to fetal conditions,2.9244393208970867,9542,2.930337535582645
+NEO039: Male reproductive system cancers - prostate,2.8757225433526012,2768,2.8963011173749105
+EAR003: Diseases of inner ear and related conditions,2.8495486459378134,1994,2.8782956878059833
+MUS029: Disorders of jaw,2.7913279132791327,738,2.869244743062335
+SYM014: Skin/Subcutaneous signs and symptoms,2.763478260869565,575,2.863676496203781
+NVS012: Transient cerebral ischemia,2.8463611859838274,4823,2.8583290347390564
+SYM015: General sensation/perception signs and symptoms,2.8163120567375888,1410,2.8572639966722027
+NVS010: Headache; including migraine,2.7706540447504304,2324,2.796027096945926
+EYE010: Blindness and vision defects,2.5902777777777777,288,2.795089335198863
+GEN005: Calculus of urinary tract,2.7604485219164117,1962,2.7905587867009336
+RSP009: Asthma,2.7758054586497023,9746,2.781884857182188
+GEN006: Other specified and unspecified diseases of kidney and ureters,2.7610745418964595,5621,2.7716517488461703
+PRG019: Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium,2.7355714824594495,7953,2.74311896591512
+DIG002: Disorders of teeth and gingiva,2.6366612111292964,611,2.735162464724643
+RSP006: Other specified upper respiratory infections,2.6797687861271675,1730,2.714792865852143
+"FAC003: Encounter for observation and examination for conditions ruled out (excludes infectious disease, neoplasm, mental disorders)",2.4292035398230087,226,2.6987297367530476
+GEN016: Other specified male genital disorders,2.51487414187643,437,2.6562090049042664
+DIG009: Appendicitis and other appendiceal conditions,2.641116804350099,9563,2.647593396143301
+CIR023: Occlusion or stenosis of precerebral or cerebral arteries without infarction,2.5908147379346134,3854,2.6070953833870028
+GEN014: Erectile dysfunction,1.532258064516129,62,2.559603844405485
+PRG017: Maternal care for abnormality of pelvic organs,2.4936936936936935,1110,2.5512278895940264
+PRG022: Prolonged pregnancy,2.5178887060401047,16407,2.5218169790735527
+GEN019: Endometriosis,2.3964686998394864,623,2.500602667560264
+PRG023: Complications specified during childbirth,2.468201109011493,32281,2.470229637325199
+PRG016: Previous C-section,2.437382297551789,19116,2.440838603430249
+"PRG024: Malposition, disproportion or other labor complications",2.427182120205376,16555,2.4311847671337103
+MAL006: Cleft lip or palate,1.9870129870129871,154,2.418893765754309
+"PRG029: Uncomplicated pregnancy, delivery or puerperium",2.3072245356599907,15129,2.3117623285524624
+MUS006: Osteoarthritis,2.249982195000356,28082,2.2524691308533646
+CIR012: Nonspecific chest pain,2.2180787589498805,10056,2.2250781575269207
+PRG010: Hemorrhage after first trimester,1.993993993993994,333,2.206480213148016
+GEN022: Benign ovarian cyst,2.0782865583456425,677,2.1834828052241746
+GEN021: Menstrual disorders,1.9748743718592965,398,2.1552332900508366
+NEO029: Breast cancer - ductal carcinoma in situ (DCIS),1.9493927125506072,494,2.0970574226483456
+RSP004: Acute and chronic tonsillitis,1.9254079254079255,858,2.0124003590447037
+PRG026: OB-related trauma to perineum and vulva,1.960149973219068,9335,1.968240247487039
+GEN020: Prolapse of female genital organs,1.5813295615275813,707,1.695856279561554
+PNL007: Hemolytic jaundice and perinatal jaundice,1.6045751633986929,1836,1.6491850836429147
+END009: Obesity,1.5602196461256863,16390,1.5653191660719836

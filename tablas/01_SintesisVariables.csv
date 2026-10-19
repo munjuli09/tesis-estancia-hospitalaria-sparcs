@@ -1,0 +1,23 @@
+﻿,variable,accion
+0,Length of Stay,conservar
+1,Payment Typology 3,conservar
+2,Payment Typology 2,conservar
+3,CCSR Procedure Code,conservar
+4,Zip Code - 3 digits,conservar
+5,Hospital Service Area,conservar
+6,Hospital County,conservar
+7,APR Severity of Illness Description,conservar
+8,APR Risk of Mortality,conservar
+9,Ethnicity,conservar
+10,Race,conservar
+11,Gender,conservar
+12,Age Group,conservar
+13,APR MDC Description,conservar
+14,Birth Weight,conservar
+15,Discharge Year,eliminar
+16,Facility Name,eliminar
+17,Operating Certificate Number,eliminar
+18,Patient Disposition,eliminar
+19,Permanent Facility Id,eliminar
+20,Total Charges,eliminar
+21,Total Costs,eliminar

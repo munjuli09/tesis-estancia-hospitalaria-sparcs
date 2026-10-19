@@ -1,0 +1,26 @@
+﻿,pct_nulos
+APR Risk of Mortality,0.03
+APR Severity of Illness Description,0.03
+Age Group,0.0
+Hospital County,0.0
+Gender,0.0
+Race,0.0
+Ethnicity,0.0
+Zip Code - 3 digits,0.0
+Hospital Service Area,0.0
+Type of Admission,0.0
+Length of Stay,0.0
+CCSR Diagnosis Code,0.0
+CCSR Diagnosis Description,0.0
+APR DRG Code,0.0
+APR DRG Description,0.0
+CCSR Procedure Code,0.0
+CCSR Procedure Description,0.0
+APR MDC Description,0.0
+APR MDC Code,0.0
+APR Severity of Illness Code,0.0
+APR Medical Surgical Description,0.0
+Payment Typology 1,0.0
+Payment Typology 2,0.0
+Payment Typology 3,0.0
+Emergency Department Indicator,0.0
